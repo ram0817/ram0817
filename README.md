@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year B.Tech student with a strong passion for programming and technology, constantly working to expand my knowledge by learning new skills and exploring emerging tools. My curiosity and adaptability make me a quick learner, while my communication abilities and teamwork skills allow me to collaborate effectively and contribute meaningfully to projects. With a balance of technical growth and interpersonal strengths, I am committed to developing as a professional who can innovate, solve problems, and thrive in the dynamic world of technology.
+I am a B.Tech student with a strong passion for programming and technology, constantly working to expand my knowledge by learning new skills and exploring emerging tools. My curiosity and adaptability make me a quick learner, while my communication abilities and teamwork skills allow me to collaborate effectively and contribute meaningfully to projects. With a balance of technical growth and interpersonal strengths, I am committed to developing as a professional who can innovate, solve problems, and thrive in the dynamic world of technology.
 
 
 ## 🌐 Socials:
